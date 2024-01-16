@@ -1,0 +1,33 @@
+{
+	"name": "barkley/drupal-boilerplate",
+	"description": "Base setup for Barkley Drupal projects.",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Joshua Petry",
+			"email": "joshie@gmail.com",
+			"role": "Developer"
+		}
+	],
+	"repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        }
+    ],
+	"require": {
+		"drush/drush": "^12.4",
+		"drupal/paragraphs": "^1.15",
+        "drupal/twig_tweak": "^3.2",
+        "drupal/pathauto": "^1.11",
+        "drupal/xmlsitemap": "^1.5",
+        "drupal/linkit": "^6.1",
+        "drupal/webform": "^6.2",
+        "drupal/recaptcha": "^3.2",
+        "drupal/quick_node_clone": "^1.17",
+        "drupal/entity_type_clone": "^4.0",
+        "drupal/field_group": "^3.4",
+        "drupal/redirect": "^1.9",
+		"drupal/imce": "^3.0"
+	}
+}
