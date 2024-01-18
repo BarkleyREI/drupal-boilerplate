@@ -2,7 +2,7 @@
 Base setup for Barkley Drupal projects.
 
 # Installation
-Run `composer barkley/drupal-boilerplate` into an existing Drupal 10 environment. 
+Run `composer require barkley/drupal-boilerplate` into an existing Drupal 10 environment. 
 
 https://packagist.org/packages/barkley/drupal-boilerplate
 
