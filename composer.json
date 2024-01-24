@@ -29,6 +29,7 @@
         "drupal/field_group": "^3.4",
         "drupal/redirect": "^1.9",
 		"drupal/imce": "^3.0",
-		"drupal/backup_migrate": "^5.0"
+		"drupal/backup_migrate": "^5.0",
+		"drupal/metatag": "^2.0"
 	}
 }
